@@ -1,0 +1,891 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <z:Attachment rdf:about="#item_171">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/171/UnderstandingDeepLearning_23_10_23_C.pdf"/>
+        <dc:title>UnderstandingDeepLearning_23_10_23_C.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_190">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/190/Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (z-lib.org).pdf"/>
+        <dc:title>Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (z-lib.org).pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1802.01528">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parr</foaf:surname>
+                        <foaf:givenName>Terence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howard</foaf:surname>
+                        <foaf:givenName>Jeremy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_219"/>
+        <link:link rdf:resource="#item_220"/>
+        <link:link rdf:resource="#item_221"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Matrix Calculus You Need For Deep Learning</dc:title>
+        <dcterms:abstract>This paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks. We assume no math knowledge beyond what you learned in calculus 1, and provide links to help you refresh the necessary math where needed. Note that you do not need to understand this material before you start learning to train and use deep learning in practice; rather, this material is for those who are already familiar with the basics of neural networks, and wish to deepen their understanding of the underlying math. Don't worry if you get stuck at some point along the way---just go back and reread the previous section, and try writing down and working through some examples. And if you're still stuck, we're happy to answer your questions in the Theory category at forums.fast.ai. Note: There is a reference section at the end of the paper summarizing all the key matrix calculus rules and terminology discussed here. See related articles at http://explained.ai</dcterms:abstract>
+        <dc:date>2018-07-02</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1802.01528</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-21 15:28:05</dcterms:dateSubmitted>
+        <dc:description>arXiv:1802.01528 [cs, stat]</dc:description>
+        <prism:number>arXiv:1802.01528</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_219">
+        <rdf:value>Comment: PDF version of mobile/web friendly version http://explained.ai/matrix-calculus/index.html</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_220">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/220/Parr and Howard - 2018 - The Matrix Calculus You Need For Deep Learning.pdf"/>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1802.01528.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-21 15:28:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_221">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/221/1802.html"/>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1802.01528</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-21 15:28:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2304.12210">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balestriero</foaf:surname>
+                        <foaf:givenName>Randall</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibrahim</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sobal</foaf:surname>
+                        <foaf:givenName>Vlad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morcos</foaf:surname>
+                        <foaf:givenName>Ari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shekhar</foaf:surname>
+                        <foaf:givenName>Shashank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goldstein</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bordes</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bardes</foaf:surname>
+                        <foaf:givenName>Adrien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mialon</foaf:surname>
+                        <foaf:givenName>Gregoire</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tian</foaf:surname>
+                        <foaf:givenName>Yuandong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwarzschild</foaf:surname>
+                        <foaf:givenName>Avi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenName>Andrew Gordon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geiping</foaf:surname>
+                        <foaf:givenName>Jonas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garrido</foaf:surname>
+                        <foaf:givenName>Quentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernandez</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bar</foaf:surname>
+                        <foaf:givenName>Amir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pirsiavash</foaf:surname>
+                        <foaf:givenName>Hamed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>LeCun</foaf:surname>
+                        <foaf:givenName>Yann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goldblum</foaf:surname>
+                        <foaf:givenName>Micah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1606"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Cookbook of Self-Supervised Learning</dc:title>
+        <dcterms:abstract>Self-supervised learning, dubbed the dark matter of intelligence, is a promising path to advance machine learning. Yet, much like cooking, training SSL methods is a delicate art with a high barrier to entry. While many components are familiar, successfully training a SSL method involves a dizzying set of choices from the pretext tasks to training hyper-parameters. Our goal is to lower the barrier to entry into SSL research by laying the foundations and latest SSL recipes in the style of a cookbook. We hope to empower the curious researcher to navigate the terrain of methods, understand the role of the various knobs, and gain the know-how required to explore how delicious SSL can be.</dcterms:abstract>
+        <dc:date>2023-06-28</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2304.12210</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-30 11:29:12</dcterms:dateSubmitted>
+        <dc:description>arXiv:2304.12210 [cs]</dc:description>
+        <prism:number>arXiv:2304.12210</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1606">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1606/Balestriero et al. - 2023 - A Cookbook of Self-Supervised Learning.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2304.12210v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-12-07 17:47:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-387-31073-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Information science and statistics</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bishop</foaf:surname>
+                        <foaf:givenName>Christopher M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_995"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Pattern perception</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Pattern recognition and machine learning</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Q327 .B52 2006</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-387-31073-2</dc:identifier>
+        <z:numPages>738</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_995">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/995/Bishop - 2006 - Pattern recognition and machine learning.pdf"/>
+        <dc:title>Bishop - 2006 - Pattern recognition and machine learning.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1004">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1004/main_notes.pdf"/>
+        <dc:title>cs229_notes.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-981-16-4938-7%20978-981-16-4939-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Singapore</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Singapore</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Xiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1230"/>
+        <dc:title>Introduction to Visual SLAM: From Theory to Practice</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Introduction to Visual SLAM</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-981-16-4939-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-10-08 13:03:13</dcterms:dateSubmitted>
+        <dc:rights>https://www.springer.com/tdm</dc:rights>
+        <dc:description>DOI: 10.1007/978-981-16-4939-4</dc:description>
+        <dc:identifier>ISBN 978-981-16-4938-7 978-981-16-4939-4</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1230">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1230/Gao and Zhang - 2021 - Introduction to Visual SLAM From Theory to Practi.pdf"/>
+        <dc:title>Gao and Zhang - 2021 - Introduction to Visual SLAM From Theory to Practi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1236">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1236/AntonioTorralba_2024_XIVONRESEARCHWRITINGA_FoundationsOfComputer.pdf"/>
+        <dc:title>AntonioTorralba_2024_XIVONRESEARCHWRITINGA_FoundationsOfComputer.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2403.18103">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>Stanley H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1325"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Tutorial on Diffusion Models for Imaging and Vision</dc:title>
+        <dcterms:abstract>The astonishing growth of generative tools in recent years has empowered many exciting applications in text-to-image generation and text-to-video generation. The underlying principle behind these generative tools is the concept of diffusion, a particular sampling mechanism that has overcome some shortcomings that were deemed difficult in the previous approaches. The goal of this tutorial is to discuss the essential ideas underlying the diffusion models. The target audience of this tutorial includes undergraduate and graduate students who are interested in doing research on diffusion models or applying these models to solve other problems.</dcterms:abstract>
+        <dc:date>2024-09-06</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2403.18103</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-10-12 19:07:53</dcterms:dateSubmitted>
+        <dc:description>arXiv:2403.18103 [cs]</dc:description>
+        <prism:number>arXiv:2403.18103</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1325">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1325/2403.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2403.18103</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-10-12 19:07:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_1427">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Albrecht</foaf:surname>
+                        <foaf:givenName>Stefano V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Christianos</foaf:surname>
+                        <foaf:givenName>Filippos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schäfer</foaf:surname>
+                        <foaf:givenName>Lukas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Multi-Agent Reinforcement Learning: Foundations and Modern Approaches</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1478">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1478/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf"/>
+        <dc:title>fluent_python</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-84800-069-8%20978-1-84800-070-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer London</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Skiena</foaf:surname>
+                        <foaf:givenName>Steven S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1479"/>
+        <dc:title>The Algorithm Design Manual</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-1-84800-070-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-14 23:41:58</dcterms:dateSubmitted>
+        <dc:rights>http://www.springer.com/tdm</dc:rights>
+        <dc:description>DOI: 10.1007/978-1-84800-070-4</dc:description>
+        <dc:identifier>ISBN 978-1-84800-069-8 978-1-84800-070-4</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1479">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1479/Skiena - 2008 - The Algorithm Design Manual.pdf"/>
+        <dc:title>Skiena - 2008 - The Algorithm Design Manual.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1481">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1481/competetive_programmers_handbook.pdf"/>
+        <dc:title>competetive_programmers_handbook.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1611">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1611/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"/>
+        <dc:title>System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-13-235088-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Upper Saddle River, NJ</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Prentice Hall</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>Robert C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_1636"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Agile software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Reliability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Clean code: a handbook of agile software craftsmanship</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Clean code</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>QA76.76.D47 C583 2009</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-13-235088-4</dc:identifier>
+        <z:numPages>431</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1636">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1636/Martin - 2009 - Clean code a handbook of agile software craftsman.pdf"/>
+        <dc:title>Martin - 2009 - Clean code a handbook of agile software craftsman.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-80056-021-5%20978-1-80056-209-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Birmingham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Packt Publishing Limited</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anaya</foaf:surname>
+                        <foaf:givenName>Mariano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1638"/>
+        <dc:title>Clean Code in Python: Develop maintainable and efficient code</dc:title>
+        <dcterms:abstract>bTackle inefficiencies and errors the Pythonic way/bh4Key Features/h4ulliEnhance your coding skills using the new features introduced in Python 3.9/liliImplement the refactoring techniques and SOLID principles in Python/liliApply microservices to your legacy systems by implementing practical techniques/li/ulh4Book Description/h4Experienced professionals in every field face several instances of disorganization, poor readability, and testability due to unstructured code. With updated code and revised content aligned to the new features of Python 3.9, this second edition of Clean Code in Python will provide you with all the tools you need to overcome these obstacles and manage your projects successfully. The book begins by describing the basic elements of writing clean code and how it plays a key role in Python programming. You will learn about writing efficient and readable code using the Python standard library and best practices for software design. The book discusses object-oriented programming in Python and shows you how to use objects with descriptors and generators. It will also show you the design principles of software testing and how to resolve problems by implementing software design patterns in your code. In the concluding chapter, we break down a monolithic application into a microservices-based one starting from the code as the basis for a solid platform. By the end of this clean code book, you will be proficient in applying industry-approved coding practices to design clean, sustainable, and readable real-world Python code.h4What you will learn/h4ulliSet up a productive development environment by leveraging automatic tools/liliLeverage the magic methods in Python to write better code, abstracting complexity away and encapsulating details/liliCreate advanced object-oriented designs using unique features of Python, such as descriptors/liliEliminate duplicated code by creating powerful abstractions using software engineering principles of object-oriented design/liliCreate Python-specific solutions using decorators and descriptors/liliRefactor code effectively with the help of unit tests/liliBuild the foundations for solid architecture with a clean code base as its cornerstone/li/ulh4Who this book is for/h4This book is designed to benefit new as well as experienced programmers. It will appeal to team leads, software architects and senior software engineers who would like to write Pythonic code to save on costs and improve efficiency. The book assumes that you have a strong understanding of programming</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Clean Code in Python</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-1-80056-021-5 978-1-80056-209-7</dc:identifier>
+        <prism:edition>2</prism:edition>
+        <z:numPages>1</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1638">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1638/Anaya - 2021 - Clean Code in Python Develop maintainable and eff.pdf"/>
+        <dc:title>Anaya - 2021 - Clean Code in Python Develop maintainable and eff.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2201.00650">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kashani</foaf:surname>
+                        <foaf:givenName>Shlomo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ivry</foaf:surname>
+                        <foaf:givenName>Amir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1858"/>
+        <link:link rdf:resource="#item_1859"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Information Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Information Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI</dc:title>
+        <dcterms:abstract>The second edition of Deep Learning Interviews is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning MSc / PhD. students, and those awaiting an interview a well-organized overview of the field. The problems it poses are tough enough to cut your teeth on and to dramatically improve your skills-but they're framed within thought-provoking questions and engaging stories. That is what makes the volume so specifically valuable to students and job seekers: it provides them with the ability to speak confidently and quickly on any relevant topic, to answer technical questions clearly and correctly, and to fully understand the purpose and meaning of interview questions and answers. Those are powerful, indispensable advantages to have when walking into the interview room. The book's contents is a large inventory of numerous topics relevant to DL job interviews and graduate level exams. That places this work at the forefront of the growing trend in science to teach a core set of practical mathematical and computational skills. It is widely accepted that the training of every computer scientist must include the fundamental theorems of ML, and AI appears in the curriculum of nearly every university. This volume is designed as an excellent reference for graduates of such programs.</dcterms:abstract>
+        <dc:date>2022-01-04</dc:date>
+        <z:shortTitle>Deep Learning Interviews</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2201.00650</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-01 22:13:22</dcterms:dateSubmitted>
+        <dc:description>arXiv:2201.00650 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2201.00650</dc:identifier>
+        <prism:number>arXiv:2201.00650</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1858">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1858/Kashani and Ivry - 2022 - Deep Learning Interviews Hundreds of fully solved.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2201.00650v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-01 22:13:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1859">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1859/2201.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2201.00650</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-01 22:13:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-0981-0796-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Beijing Boston Farnham Sebastopol Tokyo</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>O'Reilly</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huyen</foaf:surname>
+                        <foaf:givenName>Chip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1930"/>
+        <dc:title>Designing machine learning systems: an iterative process for production-ready applications</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Designing machine learning systems</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-1-0981-0796-3</dc:identifier>
+        <prism:edition>First edition</prism:edition>
+        <z:numPages>367</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_1930">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1930/Huyen - 2022 - Designing machine learning systems an iterative p.pdf"/>
+        <dc:title>Huyen - 2022 - Designing machine learning systems an iterative p.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_1933">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mnih</foaf:surname>
+                        <foaf:givenName>Volodymyr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1931"/>
+        <dc:title>Praise for Foundations of Deep Reinforcement Learning</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1931">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1931/Mnih - Praise for Foundations of Deep Reinforcement Learn.pdf"/>
+        <dc:title>Mnih - Praise for Foundations of Deep Reinforcement Learn.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_1935">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suri</foaf:surname>
+                        <foaf:givenName>Nitin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1934"/>
+        <dc:title>Cracking The Machine Learning Interview</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1934">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1934/Suri - Cracking The Machine Learning Interview.pdf"/>
+        <dc:title>Suri - Cracking The Machine Learning Interview.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1947">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1947/understandinggeometry.pdf"/>
+        <dc:title>understandinggeometry.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1973">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1973/AntonioTorralba_2024_XIIUNDERSTANDINGMOTIO_FoundationsOfComputer.pdf"/>
+        <dc:title>AntonioTorralba_2024_XIIUNDERSTANDINGMOTIO_FoundationsOfComputer.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-031-45467-7%20978-3-031-45468-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bishop</foaf:surname>
+                        <foaf:givenName>Christopher M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bishop</foaf:surname>
+                        <foaf:givenName>Hugh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2100"/>
+        <dc:title>Deep Learning: Foundations and Concepts</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Deep Learning</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-3-031-45468-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-16 20:47:23</dcterms:dateSubmitted>
+        <dc:rights>https://www.springernature.com/gp/researchers/text-and-data-mining</dc:rights>
+        <dc:description>DOI: 10.1007/978-3-031-45468-4</dc:description>
+        <dc:identifier>ISBN 978-3-031-45467-7 978-3-031-45468-4</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2100">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2100/Bishop and Bishop - 2024 - Deep Learning Foundations and Concepts.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2103">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Aston</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lipton</foaf:surname>
+                        <foaf:givenName>Zachary C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Mu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smola</foaf:surname>
+                        <foaf:givenName>Alexander J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2102"/>
+        <dc:title>Dive into Deep Learning</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2102">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2102/Zhang et al. - Dive into Deep Learning.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
